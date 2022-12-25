@@ -1,0 +1,25 @@
+.bg-blue{
+    background-color: #0D1460 ;
+    
+}
+.bg-red{
+    background-color: #CD163F;
+}
+.font-red{
+    color: #CD163F;
+    font-family: "sitka display";
+    font-weight:bold;
+}
+.font-blue{
+    color: #0D1460 ;
+    font-family: "sitka display";
+    font-weight:bold;
+}
+.stall{
+    height: 155px;
+    width: 140px;
+    
+}
+.vh:hover{
+    zoom: 1.05;
+}
